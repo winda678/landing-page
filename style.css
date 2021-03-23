@@ -1,0 +1,57 @@
+.box{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    height:250px;
+    color:#000;
+    border-radius: 3px;
+}
+.text1{
+   padding-top: 45px;
+    color: #000;
+}
+
+.btn{
+    background: #000;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 20px 5px 20px;
+}
+
+.text2{
+    margin-top: 50px;
+}
+
+.box2{
+    height: 200px;
+    border-radius: 5px;
+}
+
+.box3{
+    height: 50px;
+}
+
+.box8{
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+   
+}
+
+.box9{
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-image: url(gambar/img8.jpg);
+}
+
+.box4{
+    height: 50px;
+}
+
+.box5{
+    height: 300px;
+}
+
+.text3{
+    margin-top: 70px;
+}
