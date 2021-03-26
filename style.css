@@ -24,6 +24,7 @@
 .box2{
     height: 200px;
     border-radius: 5px;
+    padding-top: 10px;
 }
 
 .box3{
@@ -34,21 +35,16 @@
     height:400px;
 }
 
-.box9{
-    height: 250px;
-    margin-bottom: 10px;
-    border-radius: 15px;
-    background-image: url(gambar/img8.jpg);
-}
-
 .box4{
-    height: 300px;
-}
-
-.box5{
-    height: 300px;
+    height: 30px;
+    border-radius: 100%;
 }
 
 .text3{
     margin-top: 70px;
+}
+
+.box7{
+    height: 20px;
+    border-radius: 100%;
 }
